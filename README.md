@@ -1,3 +1,3 @@
 # Multi-label-Classification-of-Pneumonia-Chest-XRays
 
-Instructions: Download the dataset from Kaggle and update the directory in the code.
+Download the dataset from Kaggle and then update the directory in the code.
